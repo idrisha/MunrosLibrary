@@ -1,7 +1,7 @@
 Munro Library Challenge
 The API provides the following functionality:
 ? Filtering of search by hill category (i.e. Munro, Munro Top or either). If this information is
-not provided by the user it should default to either. This should use the ìpost 1997î
+not provided by the user it should default to either. This should use the ‚Äúpost 1997‚Äù
 column and if it is blank the hill should be always excluded from results.
 ? The ability to sort the results by height in meters and alphabetically by name. For both
 options it should be possibly to specify if this should be done in ascending or descending
