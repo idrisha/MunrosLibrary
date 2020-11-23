@@ -29,4 +29,4 @@ jobs:
         app-name: 'munrolibrary'
         slot-name: 'production'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_1ab58e652bcd42398504fe1b589b0917 }}
-        package: '${{ github.workspace }}/target/*.jar'
+        package: '${{ github.workspace }}/target/*spring-boot.jar'
